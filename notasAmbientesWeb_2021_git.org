@@ -20,7 +20,7 @@
   - ~/Users/magno/Documents/ambientesWeb/aula01/helloWord.txt~
 
 #+BEGIN_QUOTE
-*De hoje em diante não é mais permitido o uso de espaços em branco ao nomear pastas e ficheiros (trabalho final.txt / ~Documentos/ambientes web/aula 01~), assim como qualquer tipo de [[https://pt.wikipedia.org/wiki/Diacr%C3%ADtico][diacrítico]] (á, ç, ô, etc).*
+*DE HOJE EM DIANTE NÃO É MAIS PERMITIDO O USO DE ESPAÇOS EM BRANCO AO NOMEAR PASTAS E FICHEIROS (trabalho final.txt ou Documentos/ambientes web/aula 01), ASSIM COMO QUALQUER TIPO DE [[HTTPS://PT.WIKIPEDIA.ORG/WIKI/DIACR%C3%ADTICO][DIACRÍTICO]] (á, ç, ô, etc).*
 #+END_QUOTE
 
 - Minha sugestão:
@@ -33,5 +33,3 @@
    1. https://docs.github.com/en/github/getting-started-with-github/create-a-repo - (ignorar item 5 - "Select Initialize this repository with a README")
 3. Fazer seu primeiro /commit/ e upload de um arquivo de texto criado no Sublime Text
    1. https://github.blog/2016-02-18-upload-files-to-your-repositories/
-** Grupos de Investigação
-- 
