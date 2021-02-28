@@ -27,6 +27,8 @@
 *** Serviços
 **** GitHub - https://github.com/
 1. Criar conta no GitHub - (usar próprio nome como usuário!)
-2. Criar um repositório chamado "hello world"
-   1. https://docs.github.com/en/github/getting-started-with-github/create-a-repo - (ignorar item 5 "Select Initialize this repository with a README")
+2. Criar um repositório chamado "hello_world"
+   1. https://docs.github.com/en/github/getting-started-with-github/create-a-repo - (ignorar item 5 - "Select Initialize this repository with a README")
 3. Fazer seu primeiro /commit/ e upload de um arquivo de texto criado no Sublime Text
+   1. https://github.blog/2016-02-18-upload-files-to-your-repositories/
+** Grupos de Investigação
