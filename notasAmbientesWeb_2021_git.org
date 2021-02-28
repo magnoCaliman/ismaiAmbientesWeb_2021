@@ -11,7 +11,7 @@
 **** Navegador
 - Google Chrome - https://www.google.com/chrome/
 - Firefox - https://www.mozilla.org/en-US/firefox/new/
-- *Fujam de navegadores da Microsoft/Apple*: Safari, Edge ou (especialmente!) Internet Explorer
+- *Fujam de navegadores da Apple/Microsoft*: Safari, Edge ou (especialmente!) Internet Explorer
 
 *** Estrutura de pasta *fixa* para ficheiros do semestre
 - Entender conceito de /endereço de um ficheiro/ no HD:
@@ -19,7 +19,7 @@
   - ~C:\Users\Pedro\Desktop\trabalho-final\trabalho-final-versao-final2-revisada.doc~
   - ~/Users/magno/Documents/ambientesWeb/aula01/helloWord.txt~
 
-- De hoje em diante não é mais permitido o uso de espaços em branco ao nomear pastas e ficheiros (trabalho final.txt / ~Documentos/ambientes web/aula 01~), assim como qualquer tipo de [[https://pt.wikipedia.org/wiki/Diacr%C3%ADtico][diacrítico]] (á,ç,ô,etc).
+- De hoje em diante não é mais permitido o uso de espaços em branco ao nomear pastas e ficheiros (trabalho final.txt / ~Documentos/ambientes web/aula 01~), assim como qualquer tipo de [[https://pt.wikipedia.org/wiki/Diacr%C3%ADtico][diacrítico]] (á, ç, ô, etc).
 
 - Minha sugestão:
 [[/img/estruturaPasta_aula01.png]]
