@@ -1,0 +1,32 @@
+* AULA 01 - 02/MAR
+** Setup
+*** Softwares
+**** Editor de texto específico para trabalho com código
+- Sublime Text 3 - https://www.sublimetext.com/ 
+- Existem outros:
+  - Visual Studio Code - https://code.visualstudio.com/
+  - Atom - https://atom.io/
+  - Brackets - http://brackets.io/
+
+**** Navegador
+- Google Chrome - https://www.google.com/chrome/
+- Firefox - https://www.mozilla.org/en-US/firefox/new/
+- *Fujam de navegadores da Microsoft/Apple*: Safari, Edge ou (especialmente!) Internet Explorer
+
+*** Estrutura de pasta *fixa* para ficheiros do semestre
+- Entender conceito de /endereço de um ficheiro/ no HD:
+  - ~C:\Users\Pedro\Downloads\matricula.pdf~
+  - ~C:\Users\Pedro\Desktop\trabalho-final\trabalho-final-versao-final2-revisada.doc~
+  - ~/Users/magno/Documents/ambientesWeb/aula01/helloWord.txt~
+
+- De hoje em diante não é mais permitido o uso de espaços em branco ao nomear pastas e ficheiros (trabalho final.txt / ~Documentos/ambientes web/aula 01~), assim como qualquer tipo de [[https://pt.wikipedia.org/wiki/Diacr%C3%ADtico][diacrítico]] (á,ç,ô,etc).
+
+- Minha sugestão:
+[./img/estruturaPasta_aula01.png]
+
+*** Serviços
+**** GitHub - https://github.com/
+1. Criar conta no GitHub - (usar próprio nome como usuário!)
+2. Criar um repositório chamado "hello world"
+   1. https://docs.github.com/en/github/getting-started-with-github/create-a-repo - (ignorar item 5 "Select Initialize this repository with a README")
+3. Fazer seu primeiro /commit/ e upload de um arquivo de texto criado no Sublime Text
