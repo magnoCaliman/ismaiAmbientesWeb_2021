@@ -19,7 +19,9 @@
   - ~C:\Users\Pedro\Desktop\trabalho-final\trabalho-final-versao-final2-revisada.doc~
   - ~/Users/magno/Documents/ambientesWeb/aula01/helloWord.txt~
 
-- De hoje em diante não é mais permitido o uso de espaços em branco ao nomear pastas e ficheiros (trabalho final.txt / ~Documentos/ambientes web/aula 01~), assim como qualquer tipo de [[https://pt.wikipedia.org/wiki/Diacr%C3%ADtico][diacrítico]] (á, ç, ô, etc).
+#+BEGIN_QUOTE
+De hoje em diante não é mais permitido o uso de espaços em branco ao nomear pastas e ficheiros (trabalho final.txt / ~Documentos/ambientes web/aula 01~), assim como qualquer tipo de [[https://pt.wikipedia.org/wiki/Diacr%C3%ADtico][diacrítico]] (á, ç, ô, etc).
+#+END_QUOTE
 
 - Minha sugestão:
 [[/img/estruturaPasta_aula01.png]]
@@ -32,3 +34,4 @@
 3. Fazer seu primeiro /commit/ e upload de um arquivo de texto criado no Sublime Text
    1. https://github.blog/2016-02-18-upload-files-to-your-repositories/
 ** Grupos de Investigação
+- 
