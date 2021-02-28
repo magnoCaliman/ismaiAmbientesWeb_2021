@@ -20,7 +20,7 @@
   - ~/Users/magno/Documents/ambientesWeb/aula01/helloWord.txt~
 
 #+BEGIN_QUOTE
-De hoje em diante não é mais permitido o uso de espaços em branco ao nomear pastas e ficheiros (trabalho final.txt / ~Documentos/ambientes web/aula 01~), assim como qualquer tipo de [[https://pt.wikipedia.org/wiki/Diacr%C3%ADtico][diacrítico]] (á, ç, ô, etc).
+*De hoje em diante não é mais permitido o uso de espaços em branco ao nomear pastas e ficheiros (trabalho final.txt / ~Documentos/ambientes web/aula 01~), assim como qualquer tipo de [[https://pt.wikipedia.org/wiki/Diacr%C3%ADtico][diacrítico]] (á, ç, ô, etc).*
 #+END_QUOTE
 
 - Minha sugestão:
