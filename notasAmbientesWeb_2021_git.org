@@ -34,14 +34,14 @@
 3. Fazer seu primeiro /commit/ e upload de um arquivo de texto criado no Sublime Text
    1. https://github.blog/2016-02-18-upload-files-to-your-repositories/
 
-# ** Grupos de investigação
-# 1. Separar grupos de 4 ou 5 pessoas
-# 2. Criar chat no Teams com o grupo e me adicionar
+** Grupos de investigação
+1. Separar grupos de 4 ou 5 pessoas
+2. Criar chat no Teams com o grupo e me adicionar
 
-# - Semestre se dará através de uma dinâmica de /grupos de investição/
-#   - Pessoas com interesses artísticos/acadêmicos em comum que realizam pesquisas /individuais/, mas que possuem um núcleo comum, podendo portanto se complementar.
-#   - http://citei.ismai.pt/pt
-# - Todas as atividades do semestre serão realizadas no contexto do seu GI.
-# - Ninguém deve estar fora de um GI! Avisem colegas que não estejam presentes na aula de hoje, para que os grupos estejam montados para a próxima aula.
+- Semestre se dará através de uma dinâmica de /grupos de investição/
+  - Pessoas com interesses artísticos/acadêmicos em comum que realizam pesquisas /individuais/, mas que possuem um núcleo comum, podendo portanto se complementar.
+  - http://citei.ismai.pt/pt
+- Todas as atividades do semestre serão realizadas no contexto do seu GI.
+- Ninguém deve estar fora de um GI! Avisem colegas que não estejam presentes na aula de hoje, para que os grupos estejam montados para a próxima aula.
 
 
