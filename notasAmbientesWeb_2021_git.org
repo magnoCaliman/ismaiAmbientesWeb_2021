@@ -50,16 +50,16 @@
 ** Grupos 
 
 ** Conceitos 
-- _Navegador como compilador/interpretador_
-  - Uma página web é (como a maior parte dos códigos de computador) somente um /arquivo de texto/. Esses arquivos possuem a extensão ~.html~
+*** Navegador como compilador/interpretador
+- Uma página web é (como a maior parte dos códigos de computador) somente um /arquivo de texto/. Esses arquivos possuem a extensão ~.html~
 
 #+begin_quote
 HTML files are nothing more than simple text files
 https://www.htmldog.com/guides/html/beginner/gettingstarted/
 #+end_quote
 
-- _HTML (Hypertext Markup Language)_
-  - Ao escrever HTML, tens que estar sempre a pensar em termos de /conteúdo estruturado/.
+*** HTML (Hypertext Markup Language)
+- Ao escrever HTML, tens que estar sempre a pensar em termos de /conteúdo estruturado/.
 
 #+BEGIN_QUOTE
 HTML /describes/ de structure of a Web Page.\\
@@ -98,16 +98,16 @@ The primary thing to keep in mind, the supermagic key, is that HTML is used for 
 https://www.htmldog.com/guides/html/beginner/
 #+END_QUOTE
 
-- _Tag_ 
-  - Palavras reservadas que fazem parte da linguagem HTML. Tal qual Processing possui /funções/ como ~size()~, ~rect()~, ~if(){}~ (os "faça isso!" da linguagem), HTML possui /tags/ como ~<h1>~, ~<p>~ e ~<em>~ que irão /identificar um conteúdo em relação à uma estrutura/. Uma "etiqueta". Algo que identifica um objeto.
+*** Tag
+- Palavras reservadas que fazem parte da linguagem HTML. Tal qual Processing possui /funções/ como ~size()~, ~rect()~, ~if(){}~ (os "faça isso!" da linguagem), HTML possui /tags/ como ~<h1>~, ~<p>~ e ~<em>~ que irão /identificar um conteúdo em relação à uma estrutura/. Uma "etiqueta". Algo que identifica um objeto.
 
-  - Algumas definições possíveis:
-    - "Provide semantic meaning to the content in the page" - HTML 5 - Notes For Professionals. p.2 - https://books.goalkicker.com/HTML5Book/
-    - "Surround content and apply meaning to it" - HTMLdog - https://www.htmldog.com/guides/html/beginner/tags/
-    - "Label pieces of content / elements names surrounded by angle brackets" - W3 - https://www.w3schools.com/html/html_intro.asp
-    - "Is used to create an element" - MND docs - https://developer.mozilla.org/en-US/docs/Glossary/Tag
+- Algumas definições possíveis:
+  - "Provide semantic meaning to the content in the page" - HTML 5 - Notes For Professionals. p.2 - https://books.goalkicker.com/HTML5Book/
+  - "Surround content and apply meaning to it" - HTMLdog - https://www.htmldog.com/guides/html/beginner/tags/
+  - "Label pieces of content / elements names surrounded by angle brackets" - W3 - https://www.w3schools.com/html/html_intro.asp
+  - "Is used to create an element" - MND docs - https://developer.mozilla.org/en-US/docs/Glossary/Tag
 
-  - Atenção para a /abertura/ e o /fechamento/ de algumas (mas não todas) tags.
+- Atenção para a /abertura/ e o /fechamento/ de algumas (mas não todas) tags.
 
 #+begin_src html
 <p>
@@ -119,8 +119,8 @@ Já essa linha é separada da de baixo...
 ...por uma tag de <em>line break</em> que não possui conteúdo (portanto não precisa de fechamento).
 #+end_src 
 
-- _Código [[https://en.wikipedia.org/wiki/Boilerplate_text][boilerplate]]_
-  - Conjunto de tags que descrevem a estrutura básica de uma página HTML:
+*** Código [[https://en.wikipedia.org/wiki/Boilerplate_text][boilerplate]]_
+- Conjunto de tags que descrevem a estrutura básica de uma página HTML:
 
 #+BEGIN_SRC html
 <html>
