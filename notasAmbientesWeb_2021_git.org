@@ -45,3 +45,99 @@
 - Ninguém deve estar fora de um GI! Avisem colegas que não estejam presentes na aula de hoje, para que os grupos estejam montados para a próxima aula.
 
 
+* AULA 02 - 09/MAR
+
+** Grupos 
+
+** Conceitos 
+- Navegador como compilador/interpretador
+  - Uma página web é (como a maior parte dos códigos de computador) somente um /arquivo de texto/. Esses arquivos possuem a extensão ~.html~
+
+#+begin_quote
+HTML files are nothing more than simple text files
+https://www.htmldog.com/guides/html/beginner/gettingstarted/
+#+end_quote
+
+- HTML (Hypertext Markup Language)
+  - Ao escrever HTML, tens que estar sempre a pensar em termos de /conteúdo estruturado/.
+
+#+BEGIN_QUOTE
+HTML /describes/ de structure of a Web Page.\\
+W3 - https://www.w3schools.com/html/html_intro.asp
+#+END_QUOTE
+
+#+BEGIN_SRC html
+Essa é a primeira linha
+<br>
+Essa, a segunda
+#+END_SRC
+
+#+BEGIN_QUOTE
+Markup means that with HTML you declare /what/ is presented to a viewer, not /how/ it is presented.\\
+HTML 5 - Notes For Professionals. p.2 - https://books.goalkicker.com/HTML5Book/
+#+END_QUOTE
+
+#+BEGIN_SRC html
+<h1>Esse item tem muita importância</h1>
+<h2>Esse, um pouco menos...</h2>
+<h3>Esse menos ainda...</h3>
+
+<p>
+    Lorem ipsum dolor sit amet, <em>consectetur adipiscing elit</em>. Donec sit amet sem volutpat, ullamcorper orci at, vehicula diam. Fusce dictum diam tempus ex iaculis eleifend. Etiam rhoncus felis sed lorem imperdiet, et consectetur ante porta. Sed in feugiat ex. Fusce efficitur volutpat maximus. Etiam eu odio nunc. Morbi dapibus dui finibus egestas laoreet.
+</p>
+  
+<p>
+    In vel fringilla lacus. <strong>Ut suscipit interdum enim</strong>. Proin posuere bibendum mauris in tempor. Nunc sagittis odio sed facilisis cursus. Cras consequat metus nec justo sollicitudin venenatis. Sed congue, orci at porta semper, ex arcu laoreet diam, id congue massa urna et mauris. Sed pellentesque risus porta, tempor est eget, dictum nunc. Fusce ornare tincidunt mi, eu viverra urna luctus ac. Duis efficitur massa quam. Duis et consequat mi, et dignissim nulla. Duis at molestie sem. Vivamus nec magna massa.
+</p>
+
+Integer velit ligula, ullamcorper et aliquam eu, fringilla eget nisl. Phasellus consectetur, dui eu posuere porta, risus odio fermentum massa, id suscipit sem orci at leo. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus volutpat metus leo, sed posuere nisl consectetur vitae. Phasellus porttitor maximus euismod. Duis placerat augue vitae arcu dapibus suscipit. Vestibulum ac orci fringilla, rutrum orci a, pharetra velit. Nunc porttitor, nisl eget mollis tristique, elit sem porta metus, ut varius erat elit ultricies odio. Donec tincidunt nibh ut eros ornare, quis tempor neque pellentesque. Vestibulum non pharetra risus. Vivamus tempus scelerisque suscipit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#+END_SRC
+
+#+BEGIN_QUOTE
+The primary thing to keep in mind, the supermagic key, is that HTML is used for *meaning* and CSS is used for *presentation*. HTML is nothing more than fancy structured content and the visual formatting of that content will come later when we tackle CSS.
+https://www.htmldog.com/guides/html/beginner/
+#+END_QUOTE
+
+- Tag 
+  - Palavras reservadas que fazem parte da linguagem HTML. Tal qual Processing possui /funções/ como ~size()~, ~rect()~, ~if(){}~ (os "faça isso!" da linguagem), HTML possui /tags/ como ~<h1>~, ~<p>~ e ~<em>~ que irão /identificar um conteúdo em relação à uma estrutura/. Uma "etiqueta". Algo que identifica um objeto.
+
+  - Algumas definições possíveis:
+    - "Provide semantic meaning to the content in the page" - HTML 5 - Notes For Professionals. p.2 - https://books.goalkicker.com/HTML5Book/
+    - "Surround content and apply meaning to it" - HTMLdog - https://www.htmldog.com/guides/html/beginner/tags/
+    - "Label pieces of content / elements names surrounded by angle brackets" - W3 - https://www.w3schools.com/html/html_intro.asp
+    - "Is used to create an element" - MND docs - https://developer.mozilla.org/en-US/docs/Glossary/Tag
+
+- [https://en.wikipedia.org/wiki/Boilerplate_text][Boilerplate]
+
+- Estrutura básica de uma página HTML:
+#+BEGIN_SRC html
+<html>
+<head>
+  <title>título</title>
+  <meta charset="utf-8">
+</head>
+
+<body>
+  essa é primeira linha
+  <br>
+  e essa é a segunda
+</body>
+</html>
+#+END_SRC
+
+Apesar de todas as tags, a página tem o mesmo aspecto do exemplo anterior, já que [[https://www.htmldog.com/guides/html/beginner/tags/][the purpose of HTML is to apply meaning, not presentation]]
+
+** Vocabulário
+
+** Exemplo
+- materiais referência
+  - https://htmldog.com/guides/html/
+  - https://www.w3schools.com/tags/default.asp
+  - https://developer.mozilla.org/en-US/docs/Web/HTML/Element
+
+- estrutura básica: html, head, title, body.
+- p, strong, h
+
+- aleixo. tags necessárias
+html, head, title, body, h1, h2, h3, h4, hr, p, strong, a, em, ol, ul, li, sup
+- trabalhar com GI, entrega (individual) daqui 2 semanas
