@@ -50,7 +50,7 @@
 ** Grupos 
 
 ** Conceitos 
-- Navegador como compilador/interpretador
+- _Navegador como compilador/interpretador_
   - Uma página web é (como a maior parte dos códigos de computador) somente um /arquivo de texto/. Esses arquivos possuem a extensão ~.html~
 
 #+begin_quote
@@ -58,7 +58,7 @@ HTML files are nothing more than simple text files
 https://www.htmldog.com/guides/html/beginner/gettingstarted/
 #+end_quote
 
-- HTML (Hypertext Markup Language)
+- _HTML (Hypertext Markup Language)_
   - Ao escrever HTML, tens que estar sempre a pensar em termos de /conteúdo estruturado/.
 
 #+BEGIN_QUOTE
@@ -98,7 +98,7 @@ The primary thing to keep in mind, the supermagic key, is that HTML is used for 
 https://www.htmldog.com/guides/html/beginner/
 #+END_QUOTE
 
-- Tag 
+- _Tag_ 
   - Palavras reservadas que fazem parte da linguagem HTML. Tal qual Processing possui /funções/ como ~size()~, ~rect()~, ~if(){}~ (os "faça isso!" da linguagem), HTML possui /tags/ como ~<h1>~, ~<p>~ e ~<em>~ que irão /identificar um conteúdo em relação à uma estrutura/. Uma "etiqueta". Algo que identifica um objeto.
 
   - Algumas definições possíveis:
@@ -119,7 +119,7 @@ Já essa linha é separada da de baixo...
 ...por uma tag de <em>line break</em> que não possui conteúdo (portanto não precisa de fechamento).
 #+end_src 
 
-- Código [[https://en.wikipedia.org/wiki/Boilerplate_text][boilerplate]]
+- _Código [[https://en.wikipedia.org/wiki/Boilerplate_text][boilerplate]]_
   - Conjunto de tags que descrevem a estrutura básica de uma página HTML:
 
 #+BEGIN_SRC html
