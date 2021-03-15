@@ -24,7 +24,7 @@
 #+END_QUOTE
 
 - Minha sugestão:
-[[./img/img1_ambWeb.png]]
+[[./img/aula01_img1.png]]
 
 *** Plataforma
 **** GitHub - https://github.com/
@@ -153,10 +153,25 @@ Apesar de todas as tags, a página tem o mesmo aspecto do exemplo anterior, já 
   - Trabalhar com o seu GI no estudo da documentação, com entrega *individual* dia 21/03
     - Entrega: criação de repositório de nome /bruno_aleixo/ em seu GitHub pessoal.
 
-[[./img/img2_ambWeb.png]]
+[[./img/aula02_img1.png]]
 
 ** Vocabulário
 - As tags necessárias para realização do exercício são:
   - ~<html>~, ~<head>~, ~<title>~, ~<body>~, ~<h1>~, ~<h2>~, ~<h3>~, ~<h4>~, ~<hr>~, ~<p>~, ~<strong>~, ~<a>~, ~<em>~, ~<ol>~, ~<ul>~, ~<li>~ e ~<sup>~.
 - Todo os conceitos necessários são apresentados [[https://www.htmldog.com/guides/html/beginner/][nesse tutorial]] nos primeiros sete itens (entre /Getting Started/ e /Links/), à exceção dos tags ~<hr>~ e ~<sup>~. 
 - Atenção especial para os tags de criação de listas e links. Eles são os mais complexos.
+
+
+* AULA 03 - 16/MAR
+
+** Servidores && GitHub Pages
+[[./img/aula03_img1.png]]
+
+- Na página de configurações do repositório (Settings) -> GitHub Pages
+  - Source -> master
+  - Folter -> root
+
+- Caso o repositório tenha um arquivo ~index.html~ na /raiz da estrutura de pasta/, esse arquivo poderá ser visualizado em ~https://nomedousuario.github.io/nomedopositorio~
+
+** Entregas dos TPC
+- Criar um repositório de nome /entregas/, que irá conter um link para todas as entregas de trabalhos do semestre.
