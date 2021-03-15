@@ -173,5 +173,9 @@ Apesar de todas as tags, a página tem o mesmo aspecto do exemplo anterior, já 
 
 - Caso o repositório tenha um arquivo ~index.html~ na /raiz da estrutura de pasta/, esse arquivo poderá ser visualizado em ~https://nomedousuario.github.io/nomedopositorio~
 
+#+begin_quote
+IMPORTANTE! Somente repositórios *públicos* podem ser servidos através do GitHub Pages 
+#+end_quote
+
 ** Entregas dos TPC
 - Criar um repositório de nome /entregas/, que irá conter um link para todas as entregas de trabalhos do semestre.
