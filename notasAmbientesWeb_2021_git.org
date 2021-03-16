@@ -169,9 +169,9 @@ Apesar de todas as tags, a página tem o mesmo aspecto do exemplo anterior, já 
 
 - Na página de configurações do repositório (Settings) -> GitHub Pages
   - Source -> master
-  - Folter -> root
+  - Folder -> root
 
-- Caso o repositório tenha um arquivo ~index.html~ na /raiz da estrutura de pasta/, esse arquivo poderá ser visualizado em ~https://nomedousuario.github.io/nomedopositorio~
+- Caso o repositório tenha um arquivo ~index.html~ na /raiz da estrutura de pasta/, esse arquivo poderá ser visualizado em ~https://nomedousuario.github.io/nomedorepositorio~
 
 #+begin_quote
 IMPORTANTE! Somente repositórios *públicos* podem ser servidos através do GitHub Pages 
