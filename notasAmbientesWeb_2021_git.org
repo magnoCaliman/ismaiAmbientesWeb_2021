@@ -169,7 +169,7 @@ Apesar de todas as tags, a página tem o mesmo aspecto do exemplo anterior, já 
 
 - Na página de configurações do repositório (Settings) -> GitHub Pages
   - Source -> "master" ou "main" 
-  - Folder -> root
+  - Folder -> "/ (root)"
 
 - Caso o repositório tenha um arquivo ~index.html~ na /raiz da estrutura de pasta/, esse arquivo poderá ser visualizado em ~https://nomedousuario.github.io/nomedorepositorio~
 
