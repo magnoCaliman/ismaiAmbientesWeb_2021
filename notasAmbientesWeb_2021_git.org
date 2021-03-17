@@ -20,7 +20,7 @@
   - ~/Users/magno/Documents/ambientesWeb/aula01/helloWord.txt~
 
 #+BEGIN_QUOTE
-*DE HOJE EM DIANTE NÃO É MAIS PERMITIDO O USO DE ESPAÇOS EM BRANCO AO NOMEAR PASTAS E FICHEIROS (trabalho final.txt ou Documentos/ambientes web/aula 01), ASSIM COMO QUALQUER TIPO DE [[HTTPS://PT.WIKIPEDIA.ORG/WIKI/DIACR%C3%ADTICO][DIACRÍTICO]] (á, ç, ô, etc).*
+*DE HOJE EM DIANTE NÃO É MAIS PERMITIDO O USO DE ESPAÇOS EM BRANCO AO NOMEAR PASTAS E FICHEIROS (trabalho final.txt ou Documentos/ambientes web/aula 01), ASSIM COMO QUALQUER TIPO DE [[https://pt.wikipedia.org/wiki/Diacr%C3%ADtico][DIACRÍTICO]] (á, ç, ô, etc).*
 #+END_QUOTE
 
 - Minha sugestão:
