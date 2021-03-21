@@ -146,7 +146,7 @@ Apesar de todas as tags, a página tem o mesmo aspecto do exemplo anterior, já 
   - W3 Schools - https://www.w3schools.com/tags/default.asp
   - MDN Web Docs - https://developer.mozilla.org/en-US/docs/Web/HTML/Element
 
-** Exercício
+** TPC
 - Recriar a /estrutura/ do [[https://pt.wikipedia.org/wiki/Bruno_Aleixo][verbete da Wikipedia do Bruno Aleixo]]
   - Limitar-se ao conteúdo do verbete (texto, links, parágrafos), sem menus e caixas laterais, barras de busca, cores, etc.
   - /Estrutura/ aqui deve ser entendido como os elementos e suas relações com a página, assim como os elementos e suas relações hierárquicas.
@@ -155,11 +155,11 @@ Apesar de todas as tags, a página tem o mesmo aspecto do exemplo anterior, já 
 
 [[./img/aula02_img1.png]]
 
-** Vocabulário
-- As tags necessárias para realização do exercício são:
-  - ~<html>~, ~<head>~, ~<title>~, ~<body>~, ~<h1>~, ~<h2>~, ~<h3>~, ~<h4>~, ~<hr>~, ~<p>~, ~<strong>~, ~<a>~, ~<em>~, ~<ol>~, ~<ul>~, ~<li>~ e ~<sup>~.
-- Todo os conceitos necessários são apresentados [[https://www.htmldog.com/guides/html/beginner/][nesse tutorial]] nos primeiros sete itens (entre /Getting Started/ e /Links/), à exceção dos tags ~<hr>~ e ~<sup>~. 
-- Atenção especial para os tags de criação de listas e links. Eles são os mais complexos.
+*** Vocabulário
+ - As tags necessárias para realização do exercício são:
+   - ~<html>~, ~<head>~, ~<title>~, ~<body>~, ~<h1>~, ~<h2>~, ~<h3>~, ~<h4>~, ~<hr>~, ~<p>~, ~<strong>~, ~<a>~, ~<em>~, ~<ol>~, ~<ul>~, ~<li>~ e ~<sup>~.
+ - Todo os conceitos necessários são apresentados [[https://www.htmldog.com/guides/html/beginner/][nesse tutorial]] nos primeiros sete itens (entre /Getting Started/ e /Links/), à exceção dos tags ~<hr>~ e ~<sup>~. 
+ - Atenção especial para os tags de criação de listas e links. Eles são os mais complexos.
 
 
 * AULA 03 - 16/MAR
@@ -179,3 +179,64 @@ IMPORTANTE! Somente repositórios *públicos* podem ser servidos através do Git
 
 ** Entregas dos TPC
 - Criar um repositório de nome /entregas/, que irá conter um link para todas as entregas de trabalhos do semestre.
+
+
+* AULA 04 - 23/MAR
+
+** Entregas dos TPC (encore...)
+- Página contendo *link* para todas as entregas do semestre
+  - https://magnocaliman.github.io/entregas/
+
+** Atributos
+- Anatomia de um tag: 
+#+BEGIN_SRC fundamental
+         name value  content
+           |    |      |
+         |---|-----| |---|
+
+<element attr="foo"> [...] </element>
+
+   ^    |__________|      |_________|
+   |         |                 |
+start tag  attribute        end tag
+#+END_SRC
+
+- Da [[https://www.w3schools.com/html/html_attributes.asp][documentação]] sobre atributos na W3 school:
+  - All HTML elements can have *attributes*
+  - Attributes provide *additional information* about elements
+  - Attributes are always specified in the *start tag*
+  - Attributes usually come in name/value pairs like: ~name="value"~
+
+#+begin_quote
+An attribute extends an element, chaging its behaviour or providing metadata
+https://developer.mozilla.org/en-US/docs/Glossary/Attribute
+#+end_quote
+
+** Referenciando arquivos externos && ~<img>~
+- Como sempre, documentação da [[https://www.w3schools.com/tags/tag_img.asp][W3]] é mais amigável, enquanto da [[https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img][Mozilla]] é mais aprofundada
+- O atributo ~src~ pode indicar o caminho (/path/) para o arquivo da imagem de duas maneiras:
+  - Path "remoto": ~<img src="www.algum-website.com/alguma-imagem.png">~
+  - Path "local": ~<img src="/img/alguma-imagem.png">~
+
+** Repositório local vs. Repositório remoto
+[[./img/aula04_img1.png]]
+- Método de upload de arquivos (criação de /commits/) via cliente web do GitHub não permite upload de pastas (como nossas pastas de imagens...). Também torna difícil a modificação de arquivos já existentes no repositório. Por isso, passaremos a usar o [[https://desktop.github.com/][cliente desktop do GitHub]].
+  - Instalar e fazer login com suas credenciais do GitHub.
+  - "Create a new repository on your hard drive".
+    - Até agora, só sabemos criar um repositório já no servidor do GitHub.
+    - Cliente desktop nos permite criar um repositorio /local/. Parece uma pasta vazia, mas que na verdade tem um monte de arquivos ocultos (~.gitattributes~ aparece no Windows).
+  - Pasta está vazia, mas está sendo monitorada (/tracked/) para mudanças. Repositório é isso, /uma pasta monitorada/.
+    - Perfeito para /controle de versão/.
+  - Depois dos commits (quantos quiseres...), upload p/ GitHub ("/push to origin/"). Sincronizas o repositório local, com o remoto.
+
+** TPC
+[[./img/aula04_img2.png]]
+- Net Art Anthology - https://anthology.rhizome.org/
+  - Explore os trabalhos apresentados em "Chapter 1: 1984-1998". Que tipos de narrativas o espaço "virtual" /hyperlinkado/ proporcionou? Que novas estéticas visuais/sonoras/interativas?
+  - Baseado nessa exploração, proponha um site que dialogue com um ou mais aspectos dessas obras.
+- Data de entrega: 05/04
+- Bibliografia de apoio (outras estão listadas na Ficha Programática no portal):
+  - [[https://www.youtube.com/watch?v=IBHcKspN1cU][Christiane Paul: Lives of Net Art]]
+  - [[./docs/greene_2010.pdf][GREENE, Rachel. (2000) Web Work - A History of Internet Art]]
+  - [[./docs/crreira_2017.pdf][CARREIRA, Lia (2017) Experimental curating in times of the perpetual beta: strategies and platforms for online-based art]]
+
