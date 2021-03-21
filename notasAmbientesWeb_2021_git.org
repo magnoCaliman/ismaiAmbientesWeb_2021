@@ -232,8 +232,8 @@ https://developer.mozilla.org/en-US/docs/Glossary/Attribute
 ** TPC
 [[./img/aula04_img2.png]]
 - Net Art Anthology - https://anthology.rhizome.org/
-  - Explore os trabalhos apresentados em "Chapter 1: 1984-1998". Que tipos de narrativas o espaço "virtual" /hyperlinkado/ proporcionou? Que novas estéticas visuais/sonoras/interativas?
-  - Baseado nessa exploração, proponha um site que dialogue com um ou mais aspectos dessas obras.
+  - Discuta com seu grupo de investigação os trabalhos apresentados em "Chapter 1: 1984-1998". Que tipos de narrativas o espaço "virtual" /hyperlinkado/ proporcionou? Que novas estéticas visuais/sonoras/interativas?
+  - Baseado nessa exploração, proponha (individualmente) um site que dialogue com um ou mais aspectos dessas obras.
 - Data de entrega: 05/04
 - Bibliografia de apoio (outras estão listadas na Ficha Programática no portal):
   - [[https://www.youtube.com/watch?v=IBHcKspN1cU][Christiane Paul: Lives of Net Art]]
