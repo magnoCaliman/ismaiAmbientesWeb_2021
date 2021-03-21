@@ -205,7 +205,7 @@ start tag  attribute        end tag
   - All HTML elements can have *attributes*
   - Attributes provide *additional information* about elements
   - Attributes are always specified in the *start tag*
-  - Attributes usually come in name/value pairs like: <code>name="value"</code>
+  - Attributes usually come in name/value pairs like: ~name="value"/~ 
 
 #+begin_quote
 An attribute extends an element, chaging its behaviour or providing metadata \\
