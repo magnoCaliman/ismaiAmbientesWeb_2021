@@ -62,7 +62,7 @@ https://www.htmldog.com/guides/html/beginner/gettingstarted/
 - Ao escrever HTML, tens que estar sempre a pensar em termos de /conteúdo estruturado/.
 
 #+BEGIN_QUOTE
-HTML /describes/ de structure of a Web Page.\\
+HTML /describes/ the structure of a Web Page.\\
 W3 - https://www.w3schools.com/html/html_intro.asp
 #+END_QUOTE
 
@@ -208,7 +208,7 @@ start tag  attribute        end tag
   - Attributes usually come in name/value pairs like: ~name="value"~
 
 #+begin_quote
-An attribute extends an element, chaging its behaviour or providing metadata
+An attribute extends an element, chaging its behaviour or providing metadata \\
 https://developer.mozilla.org/en-US/docs/Glossary/Attribute
 #+end_quote
 
@@ -222,7 +222,7 @@ https://developer.mozilla.org/en-US/docs/Glossary/Attribute
 [[./img/aula04_img1.png]]
 - Método de upload de arquivos (criação de /commits/) via cliente web do GitHub não permite upload de pastas (como nossas pastas de imagens...). Também torna difícil a modificação de arquivos já existentes no repositório. Por isso, passaremos a usar o [[https://desktop.github.com/][cliente desktop do GitHub]].
   - Instalar e fazer login com suas credenciais do GitHub.
-  - "Create a new repository on your hard drive".
+  - "Create a new repository on your hard drive"
     - Até agora, só sabemos criar um repositório já no servidor do GitHub.
     - Cliente desktop nos permite criar um repositorio /local/. Parece uma pasta vazia, mas que na verdade tem um monte de arquivos ocultos (~.gitattributes~ aparece no Windows).
   - Pasta está vazia, mas está sendo monitorada (/tracked/) para mudanças. Repositório é isso, /uma pasta monitorada/.
@@ -238,5 +238,5 @@ https://developer.mozilla.org/en-US/docs/Glossary/Attribute
 - Bibliografia de apoio (outras estão listadas na Ficha Programática no portal):
   - [[https://www.youtube.com/watch?v=IBHcKspN1cU][Christiane Paul: Lives of Net Art]]
   - [[./docs/greene_2010.pdf][GREENE, Rachel. (2000) Web Work - A History of Internet Art]]
-  - [[./docs/crreira_2017.pdf][CARREIRA, Lia (2017) Experimental curating in times of the perpetual beta: strategies and platforms for online-based art]]
+  - [[./docs/carreira_2017.pdf][CARREIRA, Lia (2017) Experimental curating in times of the perpetual beta: strategies and platforms for online-based art]]
 
