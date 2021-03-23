@@ -216,7 +216,7 @@ https://developer.mozilla.org/en-US/docs/Glossary/Attribute
 - Como sempre, documentação da [[https://www.w3schools.com/tags/tag_img.asp][W3]] é mais amigável, enquanto da [[https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img][Mozilla]] é mais aprofundada
 - O atributo ~src~ pode indicar o caminho (/path/) para o arquivo da imagem de duas maneiras:
   - Path "remoto": ~<img src="www.algum-website.com/alguma-imagem.png">~
-  - Path "local": ~<img src="/img/alguma-imagem.png">~
+  - Path "local": ~<img src="img/alguma-imagem.png">~
 
 ** Repositório local vs. Repositório remoto
 [[./img/aula04_img1.png]]
