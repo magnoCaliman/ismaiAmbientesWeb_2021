@@ -240,3 +240,51 @@ https://developer.mozilla.org/en-US/docs/Glossary/Attribute
   - [[./docs/greene_2010.pdf][GREENE, Rachel. (2000) Web Work - A History of Internet Art]]
   - [[./docs/carreira_2017.pdf][CARREIRA, Lia (2017) Experimental curating in times of the perpetual beta: strategies and platforms for online-based art]]
 
+
+* AULA 05 - 06/ABR
+
+** CSS - /Cascading Style Sheet/
+
+#+BEGIN_QUOTE
+The primary thing to keep in mind, the supermagic key, is that HTML is used for *meaning* and CSS is used for *presentation*. HTML is nothing more than fancy structured content and the visual formatting of that content will come later when we tackle CSS.
+https://www.htmldog.com/guides/html/beginner/
+#+END_QUOTE
+
+- CSS então adiciona uma terceira dimensão para isso. /Conteúdo/ e sua relação com uma /estrutura/ (HTML), e como esse "conteúdo estruturado" é /apresentado/ (CSS).
+  - Na prática: um ficheiro extra na estrutura de pasta do seu site, com instruções para o navegador de /como interpratar graficamente os elementos HTML/.
+
+*** Linkando arquivo externo
+- Tal qual uma imagem, é preciso especificar /onde/ na estrutura de pasta está o arquivo ~.css~
+  - Convenção: pasta chamada ~css~ na raiz do seu projeto, com arquivo ~style.css~ dentro:
+
+#+begin_example
+meuSite/
+├─ css/
+│  ├─ style.css
+├─ img/
+│  ├─ foto01.png
+│  ├─ foto02.png
+├─ index.html
+#+end_example
+
+- Usa-se então o tag ~<link>~, dentro de ~<head>~ para estabelecer a comunicação entre o ficheiro HTML e o ficheiro CSS externo:
+
+#+begin_src html
+<link rel="stylesheet" href="css/style.css">
+#+end_src
+
+- [[./arquivosAula05/arquivosAula05.zip][Arquivos de exemplo para aula 05]]
+  - Um mesmo HTML, com dois CSS distintos demonstrando algumas das possibilidades de controle sobre o conteúdo gráfico de uma página.
+  - Aproximadamente o que é coberto no [[https://htmldog.com/guides/css/beginner/][CSS Beginner Tutorial]] do HTML Dog.
+
+- Obs.: Existem outras duas maneiras de se utilizar CSS, "inline" e "internal". Para mais info, ver [[https://htmldog.com/guides/css/beginner/applyingcss/][esse tutorial]].
+
+*** Anatomia de um arquivo CSS
+
+#+begin_src css
+seletor {
+    propriedade: valor;
+}
+#+end_src
+
+- Sintaxe de CSS é completamente diferente de HTML. Paradigma de /pares chave-valor/ ("key-value pairs"), associados a um ou mais elemento HTML.

@@ -1,0 +1,15 @@
+body {
+	font-size: 20px;
+	color: navy;
+}
+
+a {
+	color: green;
+	text-decoration-line: none;
+}
+
+p {
+	color: #A23B11;
+	background-color: rgba(255, 220, 230, 0.5);
+}
+
