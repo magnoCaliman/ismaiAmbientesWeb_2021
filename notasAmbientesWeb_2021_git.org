@@ -291,3 +291,7 @@ seletor {
 #+end_src
 
 - Sintaxe de CSS é completamente diferente de HTML. Paradigma de /pares chave-valor/ ("key-value pairs"), associados a um ou mais elemento HTML.
+** TPC
+- Proponha duas versões de CSS para o exercício da aula 02 (Bruno Aleixo).
+  - Experimente livremente com diferentes seletores, busque nas documentações que propriedades os elementos aceitam, e crie duas linguagens visuais diferentes.
+  - Adicione novos elementos que a página original não possui! Imagens, animações, novos layouts, etc.
