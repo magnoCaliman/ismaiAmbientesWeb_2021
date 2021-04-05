@@ -245,6 +245,8 @@ https://developer.mozilla.org/en-US/docs/Glossary/Attribute
 
 ** CSS - /Cascading Style Sheet/
 
+[[./img/aula05_img1.gif]]
+
 #+BEGIN_QUOTE
 The primary thing to keep in mind, the supermagic key, is that HTML is used for *meaning* and CSS is used for *presentation*. HTML is nothing more than fancy structured content and the visual formatting of that content will come later when we tackle CSS.
 https://www.htmldog.com/guides/html/beginner/
@@ -267,7 +269,8 @@ meuSite/
 ├─ index.html
 #+end_example
 
-- Usa-se então o tag ~<link>~, dentro de ~<head>~ para estabelecer a comunicação entre o ficheiro HTML e o ficheiro CSS externo:
+- Usa-se então o tag ~<link>~, dentro de ~<head>~, para estabelecer a comunicação entre o ficheiro HTML e o ficheiro CSS externo:
+  - [[https://www.w3schools.com/Tags/tag_link.asp][Documentação]] de ~<link>~
 
 #+begin_src html
 <link rel="stylesheet" href="css/style.css">
