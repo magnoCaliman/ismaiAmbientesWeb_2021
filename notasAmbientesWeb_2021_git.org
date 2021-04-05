@@ -295,3 +295,4 @@ seletor {
 - Proponha duas versões de CSS para o exercício da aula 02 (Bruno Aleixo).
   - Experimente livremente com diferentes seletores, busque nas documentações que propriedades os elementos aceitam, e crie duas linguagens visuais diferentes.
   - Adicione novos elementos que a página original não possui! Imagens, animações, novos layouts, etc.
+- Data de entrega: 12/04
