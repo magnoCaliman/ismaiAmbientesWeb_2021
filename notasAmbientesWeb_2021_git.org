@@ -292,12 +292,12 @@ seletor {
 
 - Sintaxe de CSS é completamente diferente de HTML. Paradigma de /pares chave-valor/ ("key-value pairs"), associados a um ou mais elemento HTML.
 ** TPC
-*** 1
+*** 1. Exercício técnico
 - Proponha um CSS para o exercício da aula 02 (Bruno Aleixo).
   - Experimente livremente com diferentes seletores, busque nas documentações que propriedades os elementos aceitam. O auto-complete do Sublime Text pode ser uma ótima forma de descobrir novas propriedades existentes em CSS.
   - Adicione novos elementos que a página original não possui. Imagens, novos layouts, animações, etc. Tome liberdades e experimente!
 - Data: 12/04
 
-*** 2
+*** 2. Exercício artístico
 - Nova entrega para o exercício proposto na aula 04.
 - Data: 12/04 
