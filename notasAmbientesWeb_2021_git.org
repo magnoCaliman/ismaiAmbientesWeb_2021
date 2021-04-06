@@ -232,8 +232,8 @@ https://developer.mozilla.org/en-US/docs/Glossary/Attribute
 ** TPC
 [[./img/aula04_img2.png]]
 - Net Art Anthology - https://anthology.rhizome.org/
-  - Discuta com seu grupo de investigação os trabalhos apresentados em "Chapter 1: 1984-1998". Que tipos de narrativas o espaço "virtual" /hyperlinkado/ proporcionou? Que novas estéticas visuais/sonoras/interativas?
-  - Baseado nessa exploração, proponha (individualmente) um site que dialogue com um ou mais aspectos dessas obras.
+  - Discuta com seu grupo de investigação os trabalhos apresentados em "Chapter 1: 1984-1998". Que tipos de narrativas o espaço "virtual" /hyperlinkado/ proporcionou? Que novas estéticas visuais/sonoras/interativas? 
+  - Baseado nessa exploração, crie (individualmente) um site que especule criativamente com as ferramentas até aqui vistas.
 - Data de entrega: 05/04
 - Bibliografia de apoio (outras estão listadas na Ficha Programática no portal):
   - [[https://www.youtube.com/watch?v=IBHcKspN1cU][Christiane Paul: Lives of Net Art]]
@@ -292,7 +292,12 @@ seletor {
 
 - Sintaxe de CSS é completamente diferente de HTML. Paradigma de /pares chave-valor/ ("key-value pairs"), associados a um ou mais elemento HTML.
 ** TPC
-- Proponha duas versões de CSS para o exercício da aula 02 (Bruno Aleixo).
-  - Experimente livremente com diferentes seletores, busque nas documentações que propriedades os elementos aceitam, e crie duas linguagens visuais diferentes.
-  - Adicione novos elementos que a página original não possui! Imagens, animações, novos layouts, etc.
-- Data de entrega: 12/04
+*** 1
+- Proponha um CSS para o exercício da aula 02 (Bruno Aleixo).
+  - Experimente livremente com diferentes seletores, busque nas documentações que propriedades os elementos aceitam. O auto-complete do Sublime Text pode ser uma ótima forma de descobrir novas propriedades existentes em CSS.
+  - Adicione novos elementos que a página original não possui. Imagens, novos layouts, animações, etc. Tome liberdades e experimente!
+- Data: 12/04
+
+*** 2
+- Nova entrega para o exercício proposto na aula 04.
+- Data: 12/04 
