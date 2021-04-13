@@ -340,13 +340,13 @@ seletor {
   - Entregas via envio de link para download e/ou stream do video + acesso ao texto de apoio.
 
 - Tópicos para sorteio!
-  - Design responsivo e /media queries/ - GI #n
-  - Transições, animações e transformações - GI #n
-  - Manipulação de cores, gradientes e filtros de imagem - GI #n
-  - Criação e manipulação de SVG - GI #n
-  - Layout e posicionamento de elementos (1) - GI #n
+  - Design responsivo e /media queries/ - GI #1
+  - Transições, animações e transformações - GI #5
+  - Manipulação de cores, gradientes e filtros de imagem - GI #2
+  - Criação e manipulação de SVG - GI #6
+  - Layout e posicionamento de elementos (1) - GI #3
     - Foco em /grid/ e /flexbox/
-  - Layout e posicionamento de elementos (2) - GI #n
+  - Layout e posicionamento de elementos (2) - GI #4
     - Foco em tudo que *não é* /grid/ ou /flexbox/
 
 ** Engenharia reversa de HTML e debugar CSS
