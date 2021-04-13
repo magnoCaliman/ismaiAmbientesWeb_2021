@@ -363,4 +363,4 @@ seletor {
   - https://www.w3schools.com/cssref/css_selectors.asp
 
 ** Elemento ~<div>~ e atributos ~id~, ~class~
-- Baixar exemplos na [[./arquivosAula06/arquivosAula06.zip][pasta de arquivos da aula]]
+- Baixar exemplos na [[./arquivosAula06/][pasta de arquivos da aula]], contidos no ficheiro ~.zip~
