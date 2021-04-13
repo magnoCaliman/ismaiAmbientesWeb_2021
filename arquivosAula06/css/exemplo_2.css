@@ -1,0 +1,32 @@
+.blocoConteudo
+{
+	background-color: rgb(210, 210, 210);
+	padding: 10px;
+	margin: 5px;
+	border-width: 5px;
+	border-style: solid;
+	border-color: black;
+	/*overflow: auto;*/
+}
+
+.blocoConteudo img 
+{
+	width: 200px;
+	float: right;
+	margin-left: 10px;
+	border: 1px dashed red;
+}
+
+.blocoConteudo p
+{
+	text-align: justify;
+	text-indent:20px;
+	font-family: monospace;
+	font-size: 120%;
+}
+
+#fotoRodape
+{
+	border: 20px solid blue;
+	/*margin-left: 5px;*/
+}

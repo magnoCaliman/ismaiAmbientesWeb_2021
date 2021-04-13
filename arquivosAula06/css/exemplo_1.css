@@ -1,0 +1,16 @@
+#textoAzul
+{
+	color: blue;
+}
+
+#textoVermelho
+{
+	color: tomato;
+}
+
+p
+{
+	margin-left: 100px;
+	margin-right: 100px;
+	border: 1px solid green; 
+}
