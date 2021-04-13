@@ -311,7 +311,7 @@ seletor {
   - Atividades em grupo ("Momento 2"). 25% da nota final.
   - Projeto final individual ("Momento 3"). 50% da nota final.
   
-** Momento 2
+*** Momento 2
 - A partir de sorteio dos seis tópicos sobre CSS listados abaixo, cada grupo irá investigar o assunto e produzir:
   - Video tutorial
     - Duração entre 15 e 20 minutos.
@@ -348,3 +348,16 @@ seletor {
     - Foco em /grid/ e /flexbox/
   - Layout e posicionamento de elementos (2) - GI #n
     - Foco em tudo que *não é* /grid/ ou /flexbox/
+
+** Engenharia reversa de HTML e debugar CSS
+- No Google Chrome
+  - Menu ~View > Developer > View Source~ -> Apresenta o HTML enviado pelo servidor, que o navegador irá renderizar.
+  - Menu ~View > Developer > Inspect Elements~ -> Abre painel com ferramentas para investigar HTML/CSS da página.
+
+- Experimentar com:
+  - https://motherfuckingwebsite.com/
+  - http://bettermotherfuckingwebsite.com/
+  - https://evenbettermotherfucking.website/
+
+** Elemento ~<div>~ e atributos ~id~, ~class~
+- Baixar exemplos na [[pasta de arquivos da aula][./arquivosAula06/arquivosAula06.zip]]
