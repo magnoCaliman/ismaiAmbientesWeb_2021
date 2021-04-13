@@ -359,5 +359,8 @@ seletor {
   - http://bettermotherfuckingwebsite.com/
   - https://evenbettermotherfucking.website/
 
+- Guia de sintaxes possíveis para CSS selectors:
+  - https://www.w3schools.com/cssref/css_selectors.asp
+
 ** Elemento ~<div>~ e atributos ~id~, ~class~
-- Baixar exemplos na [[pasta de arquivos da aula][./arquivosAula06/arquivosAula06.zip]]
+- Baixar exemplos na [[./arquivosAula06/arquivosAula06.zip][pasta de arquivos da aula]]
