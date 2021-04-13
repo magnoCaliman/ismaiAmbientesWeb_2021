@@ -301,3 +301,50 @@ seletor {
 *** 2. Exercício artístico
 - Nova entrega para o exercício proposto na aula 04.
 - Data: 19/04 
+
+
+* AULA 06 - 13/ABR
+
+** Avaliação do semestre
+- A nota da cadeira é dividida em três atividades:
+  - Atividades individuais ("Momento 1"). 25% da nota final.
+  - Atividades em grupo ("Momento 2"). 25% da nota final.
+  - Projeto final individual ("Momento 3"). 50% da nota final.
+  
+** Momento 2
+- A partir de sorteio dos seis tópicos sobre CSS listados abaixo, cada grupo irá investigar o assunto e produzir:
+  - Video tutorial
+    - Duração entre 15 e 20 minutos.
+    - Deve apresentar o tópico com exemplos, explicação da documentação, demonstrações de funcionamento.
+    - Acompanhado de material de apoio em texto.
+    - Todos os participantes do grupo devem apresentar, com câmeras ligadas.
+    - Pode ser uma captura de tela de chamada no Teams, ou video editado.
+      - Dica: atenção à legibilidade do texto e inteligibilidade do áudio! 
+  - Proposta de exercício p/ ser resolvido pelos outros grupos
+    - Atividade prática que operacionalize os conceitos e conteúdos apresentados no video tutorial.
+    - O formato e tipo da atividade não é fixo, deve ser escolhido em função da melhor adequação aos objetivos e assuntos de cada grupo.
+    - Mas deve ser mais específico do que apenas "experimente livremente com..." 
+
+- Critérios de avaliação:
+  - Demonstração de que houve investigação (e especulação!) em torno do tópico sorteado.
+  - Rigor técnico da apresentação. Coisas como a utilização de nomenclatura correta, coerência dos exemplos apresentados, organização do texto de apoio, uso de referências, etc.
+  - Sintonia entre os participantes durante a apresentação.
+  - Adequação da proposta da atividade prática com o assunto do tutorial.
+  - Resolução das atividades propostas pelos outros grupos.
+  - *Não* será avaliada a produção técnica do video.
+  - A nota será *coletiva*, a mesma para todos os membros do grupo. O esforço é compartilhado, assim como os louros...
+
+- Entrega
+  - Video + proposta de atividade prática: 25/04
+  - Resolução das 5 atividades práticas propostas pelos outros grupos: 9/05 
+  - Entregas via envio de link para download e/ou stream do video + acesso ao texto de apoio.
+
+- Tópicos para sorteio!
+  - Design responsivo e /media queries/ - GI #n
+  - Transições, animações e transformações - GI #n
+  - Manipulação de cores, gradientes e filtros de imagem - GI #n
+  - Criação e manipulação de SVG - GI #n
+  - Layout e posicionamento de elementos (1) - GI #n
+    - Foco em /grid/ e /flexbox/
+  - Layout e posicionamento de elementos (2) - GI #n
+    - Foco em tudo que *não é* /grid/ ou /flexbox/
