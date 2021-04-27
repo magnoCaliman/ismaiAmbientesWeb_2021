@@ -364,3 +364,6 @@ seletor {
 
 ** Elemento ~<div>~ e atributos ~id~, ~class~
 - Baixar exemplos na [[./arquivosAula06/][pasta de arquivos da aula]], contidos no ficheiro ~.zip~
+
+* AULA 07 - 20/ABR
+- Acompanhamento trabalhos
