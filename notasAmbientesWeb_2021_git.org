@@ -44,7 +44,6 @@
 - Todas as atividades do semestre serão realizadas no contexto do seu GI.
 - Ninguém deve estar fora de um GI! Avisem colegas que não estejam presentes na aula de hoje, para que os grupos estejam montados para a próxima aula.
 
-
 * AULA 02 - 09/MAR
 
 ** Grupos 
@@ -161,7 +160,6 @@ Apesar de todas as tags, a página tem o mesmo aspecto do exemplo anterior, já 
  - Todo os conceitos necessários são apresentados [[https://www.htmldog.com/guides/html/beginner/][nesse tutorial]] nos primeiros sete itens (entre /Getting Started/ e /Links/), à exceção dos tags ~<hr>~ e ~<sup>~. 
  - Atenção especial para os tags de criação de listas e links. Eles são os mais complexos.
 
-
 * AULA 03 - 16/MAR
 
 ** Servidores && GitHub Pages
@@ -179,7 +177,6 @@ IMPORTANTE! Somente repositórios *públicos* podem ser servidos através do Git
 
 ** Entregas dos TPC
 - Criar um repositório de nome /entregas/, que irá conter um link para todas as entregas de trabalhos do semestre.
-
 
 * AULA 04 - 23/MAR
 
@@ -239,7 +236,6 @@ https://developer.mozilla.org/en-US/docs/Glossary/Attribute
   - [[https://www.youtube.com/watch?v=IBHcKspN1cU][Christiane Paul: Lives of Net Art]]
   - [[./docs/greene_2010.pdf][GREENE, Rachel. (2000) Web Work - A History of Internet Art]]
   - [[./docs/carreira_2017.pdf][CARREIRA, Lia (2017) Experimental curating in times of the perpetual beta: strategies and platforms for online-based art]]
-
 
 * AULA 05 - 06/ABR
 
@@ -301,7 +297,6 @@ seletor {
 *** 2. Exercício artístico
 - Nova entrega para o exercício proposto na aula 04.
 - Data: 19/04 
-
 
 * AULA 06 - 13/ABR
 
@@ -365,9 +360,24 @@ seletor {
 ** Elemento ~<div>~ e atributos ~id~, ~class~
 - Baixar exemplos na [[./arquivosAula06/][pasta de arquivos da aula]], contidos no ficheiro ~.zip~
 
-
 * AULA 07 - 20/ABR
 - Acompanhamento trabalhos
 
 * AULA 08 - 27/ABR
 - Acompanhamento trabalhos
+
+* AULA 09 - 03/MAI
+** Links para acesso trabalhos Momento 2
+*** GI 1
+- https://github.com/LeonorRaimundo/grupo_1_tutorial
+*** GI 2
+- https://github.com/paulo-vilar/amb-web_av2
+*** GI 3
+- https://we.tl/t-xjzvUF5Npe
+*** GI 4
+- https://github.com/catarinaf5/grupo4_tutorial
+*** GI 5
+- texto: https://zepedro1998.github.io/Projecto_de_Grupo/
+- video: https://www.youtube.com/watch?v=qUGxUXcQN0Q
+*** GI 6
+- https://github.com/carolinaMarquess/entrega_trabalhoGrupo6_SVG/tree/main
