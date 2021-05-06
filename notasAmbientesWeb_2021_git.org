@@ -366,7 +366,7 @@ seletor {
 * AULA 08 - 27/ABR
 - Acompanhamento trabalhos
 
-* AULA 09 - 03/MAI
+* AULA 09 - 04/MAI
 ** Links para acesso trabalhos Momento 2
 *** GI 1
 - https://github.com/LeonorRaimundo/grupo_1_tutorial
