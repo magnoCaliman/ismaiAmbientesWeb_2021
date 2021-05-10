@@ -393,6 +393,7 @@ seletor {
 - https://www.youtube.com/watch?v=KoWqdEACyLI
 ** Bibliotecas externas
 - https://p5js.org/
+  - [[./arquivosAula10/exemploP5.html][Versão local]]
 - http://paperjs.org/
 - https://shiffman.net/a2z/intro/
   - https://en.wikipedia.org/wiki/Oulipo
