@@ -391,6 +391,7 @@ seletor {
 - [[./arquivosAula10/oneMillionLols.html][One Million LOLs]]
 - https://codepen.io/Mamboleoo/pen/KKdLzjo
 - https://www.youtube.com/watch?v=KoWqdEACyLI
+- https://github.com/NaiNaiNai17/Tap-Music-using-Javascript
 ** Bibliotecas externas
 - https://p5js.org/
   - [[./arquivosAula10/exemploP5.html][Versão local]]
