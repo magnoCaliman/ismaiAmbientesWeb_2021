@@ -381,3 +381,22 @@ seletor {
 - video: https://www.youtube.com/watch?v=qUGxUXcQN0Q
 *** GI 6
 - https://github.com/carolinaMarquess/entrega_trabalhoGrupo6_SVG/tree/main
+* AULA 10 - 11/MAI
+- [[./arquivosAula10/arquivosAula10.zip][Arquivos de exemplos para aula 10]]
+
+- Java-o-quê? - https://htmldog.com/guides/javascript/
+
+** JavaScript 'vanilla'
+- https://www.w3schools.com/js/js_intro.asp
+- [[./arquivosAula10/oneMillionLols.html][One Million LOLs]]
+- https://codepen.io/Mamboleoo/pen/KKdLzjo
+- https://www.youtube.com/watch?v=KoWqdEACyLI
+** Bibliotecas externas
+- https://p5js.org/
+- http://paperjs.org/
+- https://shiffman.net/a2z/intro/
+  - https://en.wikipedia.org/wiki/Oulipo
+- https://tonejs.github.io/
+  - https://teropa.info/
+  - https://medium.com/geekculture/creating-a-step-sequencer-with-tone-js-32ea3002aaf5
+- E o que mais puderes imaginar: http://js-drinking.projects.frank.petril.li/

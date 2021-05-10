@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<!-- a linha abaixo carrega a biblioteca externa, adicionando funções
+	novas que javascript 'vanilla' não possui -->
+	<script src="https://cdn.jsdelivr.net/npm/p5@1.3.1/lib/p5.js"></script>
+</head>
+<body>
+<p>
+	Esse é um <a href="https://p5js.org/examples/input-mouse-2d.html">exemplo</a> de um sketch usando a biblioteca <a href="https://p5js.org/">p5.js</a> rodando no navegador!
+</p>
+</body>
+
+<script type="text/javascript">
+
+function setup() {
+	createCanvas(720, 400);
+	noStroke();
+	rectMode(CENTER);
+}
+
+function draw() {
+	background(230);
+	fill(244, 122, 158);
+	
+	rect(mouseX, height / 2, mouseY / 2 + 10, mouseY / 2 + 10);
+	fill(237, 34, 93);
+	
+	let inverseX = width - mouseX;
+	let inverseY = height - mouseY;
+	
+	rect(inverseX, height / 2, inverseY / 2 + 10, inverseY / 2 + 10);
+}
+
+</script>
+
+</html>

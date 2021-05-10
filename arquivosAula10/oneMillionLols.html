@@ -1,0 +1,42 @@
+
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>One Million LOLs</title>
+	<meta name="description" content="A visualisation of the number one million.">
+
+	<style type="text/css">
+	#lols {
+	  	/*line-height: 12px;*/
+		/*font-size: 12px;*/
+		/*text-transform: uppercase;*/
+	}
+	</style>
+</head>
+
+<body>
+	<!-- Adaptado de http://onemillionlols.com/ -->
+	<h1>Abaixo tens um milhão de LOLs...</h1>
+	<div id="lols"></div>
+</body>
+
+<script type="text/javascript">
+
+	let divLol = document.getElementById('lols');
+	let str = " ";
+
+	for (let i = 0; i < 1000000; i++) {
+	  str += "lol ";	  
+	}
+
+	divLol.innerText = str;
+
+</script>
+
+
+
+
+
+
+
+
