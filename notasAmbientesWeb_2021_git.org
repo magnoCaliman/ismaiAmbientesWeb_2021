@@ -402,3 +402,9 @@ seletor {
   - https://teropa.info/
   - https://medium.com/geekculture/creating-a-step-sequencer-with-tone-js-32ea3002aaf5
 - E o que mais puderes imaginar: http://js-drinking.projects.frank.petril.li/
+* AULA 11 - 18/MAI
+- Para reposição
+  - Remarcado dia 25/05
+* AULA 11 && 12 - 25/MAI
+- Compensação da aula do dia 18/05
+- Orientação de projetos
