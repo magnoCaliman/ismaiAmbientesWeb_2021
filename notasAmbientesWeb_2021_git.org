@@ -405,6 +405,19 @@ seletor {
 * AULA 11 - 18/MAI
 - Para reposição
   - Remarcado dia 25/05
-* AULA 11 && 12 - 25/MAI
+* AULA 12.1 && 12.2 - 25/MAI
 - Compensação da aula do dia 18/05
 - Orientação de projetos
+
+** Sites "inúteis"
+- http://onemillionpats.com/
+- http://onemillionlols.com/
+- https://pointerpointer.com/
+- https://wetclap.com/
+- https://www.reddit.com/r/WeirdWebsites/
+- https://docs.google.com/document/d/1suaew-7W_xzdbeVE1QCXcG0JOFjuaA6e0Eq0CCjIC1A/edit
+
+** Momento 3 
+- Projeto final individual - 50% valores do semestre
+- Data de entrega: 15/junho
+- Formato de entrega: envio no portal de arquivo de texto contendo *link para acesso do site funcional*
